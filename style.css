@@ -1,0 +1,40 @@
+/* CSS for DesignDetective's Web Extension project. If you're a Dev trying to pull, use the devel-2 branch please. Many thanks. */
+.root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main_title {
+  font-family: "Montserrat", serif;
+  color: white;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  text-align: center;
+}
+
+.introduction {
+  font-family: "Montserrat", Sans-Serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  color: gray;
+  text-align: center;
+}
+
+.thanks {
+  font-family: "Montserrat", Sans-Serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  text-align: center;
+  color: gray;
+}
+
+.thanks-bold {
+  font-family: "Montserrat", Sans-Serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  text-align: center;
+  color: gray;
+}
